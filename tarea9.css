@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(246, 235, 237, 0.753);
+  
+}
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 10px 20px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+label{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin: 20px ;
+    font-size: 19px;
+
+}
+option{
+    padding: 10px;
+    font-size: 19px;
+}
+th{
+    margin: 10px 20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+td{
+    font-family: 'Poppins', sans-serif;
+    margin: 20px ;
+    font-size: 19px;
+}
+input{
+    font-family: 'Poppins', sans-serif;
+}
+div{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+   
+}
+option{
+    margin-bottom: 55px;
+}
